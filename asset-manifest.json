@@ -1,27 +1,27 @@
 {
   "files": {
     "main.css": "/static/css/main.746877c3.chunk.css",
-    "main.js": "/static/js/main.39644a1b.chunk.js",
-    "main.js.map": "/static/js/main.39644a1b.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.4a1ee9e5.js",
-    "runtime-main.js.map": "/static/js/runtime-main.4a1ee9e5.js.map",
-    "static/js/2.51aa1c69.chunk.js": "/static/js/2.51aa1c69.chunk.js",
-    "static/js/2.51aa1c69.chunk.js.map": "/static/js/2.51aa1c69.chunk.js.map",
-    "static/js/3.4eb434e9.chunk.js": "/static/js/3.4eb434e9.chunk.js",
-    "static/js/3.4eb434e9.chunk.js.map": "/static/js/3.4eb434e9.chunk.js.map",
+    "main.js": "/static/js/main.198a1ba8.chunk.js",
+    "main.js.map": "/static/js/main.198a1ba8.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a1c7f71e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a1c7f71e.js.map",
+    "static/js/2.a69b8341.chunk.js": "/static/js/2.a69b8341.chunk.js",
+    "static/js/2.a69b8341.chunk.js.map": "/static/js/2.a69b8341.chunk.js.map",
+    "static/js/3.8a3616f8.chunk.js": "/static/js/3.8a3616f8.chunk.js",
+    "static/js/3.8a3616f8.chunk.js.map": "/static/js/3.8a3616f8.chunk.js.map",
     "index.html": "/index.html",
     "static/css/main.746877c3.chunk.css.map": "/static/css/main.746877c3.chunk.css.map",
-    "static/js/2.51aa1c69.chunk.js.LICENSE.txt": "/static/js/2.51aa1c69.chunk.js.LICENSE.txt",
-    "static/media/Avatar_Ivanov.31b56c27.png": "/static/media/Avatar_Ivanov.31b56c27.png",
+    "static/js/2.a69b8341.chunk.js.LICENSE.txt": "/static/js/2.a69b8341.chunk.js.LICENSE.txt",
     "static/media/Employee1.7ad34be0.png": "/static/media/Employee1.7ad34be0.png",
     "static/media/Employee2.166d8474.png": "/static/media/Employee2.166d8474.png",
     "static/media/Employee3.f7348e52.png": "/static/media/Employee3.f7348e52.png",
-    "static/media/Employee4.30957a6d.png": "/static/media/Employee4.30957a6d.png"
+    "static/media/Employee4.30957a6d.png": "/static/media/Employee4.30957a6d.png",
+    "static/media/Ivanov.fe5b67b8.png": "/static/media/Ivanov.fe5b67b8.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.4a1ee9e5.js",
-    "static/js/2.51aa1c69.chunk.js",
+    "static/js/runtime-main.a1c7f71e.js",
+    "static/js/2.a69b8341.chunk.js",
     "static/css/main.746877c3.chunk.css",
-    "static/js/main.39644a1b.chunk.js"
+    "static/js/main.198a1ba8.chunk.js"
   ]
 }
